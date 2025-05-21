@@ -1,5 +1,4 @@
 # GitHub Actions Fundamentals
-[skip ci]
 ##updating readme again, 4th time
 
 Repo for the `GitHub Actions Fundamentals` training.
