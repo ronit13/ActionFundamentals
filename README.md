@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-##updating readme
+##updating readme again
 
 Repo for the `GitHub Actions Fundamentals` training.
 
